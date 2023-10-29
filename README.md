@@ -21,7 +21,7 @@ Dengan memasukkan beberapa komponen yang anda inginkan sebagai spesifikasi pener
 Datasets yang saya gunakan untuk menyelesaikan masalah ini adalah Flight Price Prediction yang saya dapatkan dari website Kaggle. Datasets ini memiliki 12 kolom (11 kolom pada dataset yang sudah dibersihkan) dengan 300,261 baris data, berikut adalah link menuju ke datasets terkait <br>
 [Flight Price Prediction](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction/data).
 
-### Variabel-variabel pada Heart Failure Prediction Dataset adalah sebagai berikut:
+### Variabel-variabel pada Flight Price Prediction Dataset adalah sebagai berikut:
 - Airline : Nama perusahaan maskapai penerbangan disimpan dalam kolom maskapai. Ini adalah fitur kategoris dengan 6 maskapai yang berbeda.
 - Flight : Penerbangan menyimpan informasi mengenai kode penerbangan pesawat. Ini adalah fitur kategoris.
 - Source City : Kota dari mana penerbangan berangkat. Ini adalah fitur kategoris dengan 6 kota unik.
